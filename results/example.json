@@ -1,0 +1,59 @@
+{
+  "name": "PCBox",
+  "address": {
+    "street": "Carrer de Caro",
+    "number": 9,
+    "zipCode": "07013",
+    "city": "Palma"
+  },
+  "extraInfo": { "website": "https://www.pcbox.com/", "tel": "871 03 64 74" },
+  "openingHours": [
+    "Monday: 10:00 AM \u2013 2:00 PM, 4:00 \u2013 8:00 PM",
+    "Tuesday: 10:00 AM \u2013 2:00 PM, 4:00 \u2013 8:00 PM",
+    "Wednesday: 10:00 AM \u2013 2:00 PM, 4:00 \u2013 8:00 PM",
+    "Thursday: 10:00 AM \u2013 2:00 PM, 4:00 \u2013 8:00 PM",
+    "Friday: 10:00 AM \u2013 2:00 PM, 4:00 \u2013 8:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "punctuation": {
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Maja Loga",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu86vdocHQio0vgfTvL7_4kBUhi9bx_J8i3QdqZUpA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I went there to send a DHL package, employee asked me why am I sending this, it is to expensive they should buy it in the country where you are sending it to. Showed me the price 4 times, showed me even the screen to see that this is the price when I said I don't care just want to send the package he stopped. Very unpleasant and rude."
+      },
+      {
+        "author_name": "XAN3Xx",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu9epITrnoTnZ8z7C1tXZ5HqIClyREC2S_VyUsGfRQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "A very nice place when u come in there is no pressure that is pushing on you and the people who work there are amazing. The employees are very nice and polite. But Spain is a bit of a challenge for pc gamers. when pc parts are shipped to Spain they get 21!!!% VAT that\u2019s just absurd but that is with all goods in Spain."
+      },
+      {
+        "author_name": "Tony Lock",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu_j-GyQFBAqJovrcqj9MxF5rWsxDMfzJJnDjKUA4A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "They stock just about everything needed for computer builds. Service is always five star!"
+      },
+      {
+        "author_name": "Evan Collier",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ALm5wu2V_gses3RIceOGivhxcfkUjbiLa908MOrzvqOj0w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Exceklent service helping me find a new cable for my laptop charger, English speaking as well"
+      },
+      {
+        "author_name": "Femi Omomo (Planet 4 Networks)",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu9M_cm7q8j35qwM_MI4qJMS1TLLf5xkn9TjNqkEZg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Best shop for computer parts, and repairs."
+      }
+    ]
+  }
+}
